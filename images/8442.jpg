@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-US" class="desktop">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+	<script src="https://kit.fontawesome.com/f76a1e3b45.js" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76541327-6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-76541327-6');
+	</script>
+			<title>CN_test &#8211; Just another WordPress site</title>
+<link rel='dns-prefetch' href='//kit-free.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CN_test &raquo; Feed" href="https://cntestcopy.local/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CN_test &raquo; Comments Feed" href="https://cntestcopy.local/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cntestcopy.local\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cntestcopy.local/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://kit-free.fontawesome.com/releases/latest/css/free.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='naxtheme-style-css'  href='https://cntestcopy.local/wp-content/themes/CN_test/dist/style.css?ver=5.5.1' type='text/css' media='all' />
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"https://cntestcopy.local/wp-admin/admin-ajax.php",
+				"nonce": "92a27c4a7b",
+				"home_url": "https://cntestcopy.local"
+			};
+			/* ]]\> */
+		</script>
+		<script type='text/javascript' src='https://cntestcopy.local/wp-content/themes/CN_test/src/js/menus.js?ver=5.5.1' id='menu-scripts-js'></script>
+<link rel="https://api.w.org/" href="https://cntestcopy.local/wp-json/" /><link rel="alternate" type="application/json" href="https://cntestcopy.local/wp-json/wp/v2/pages/197" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cntestcopy.local/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cntestcopy.local/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://cntestcopy.local/" />
+<link rel='shortlink' href='https://cntestcopy.local/' />
+<link rel="alternate" type="application/json+oembed" href="https://cntestcopy.local/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcntestcopy.local%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cntestcopy.local/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcntestcopy.local%2F&#038;format=xml" />
+</head>
+
+<body class="home page-template-default page page-id-197 desktop base">
+		<header id="site-header" class="desktop">
+		<section class="company-info" style="display: none;">
+			<div>
+									<a href="tel:0536 459 55 53" target="_blank" rel='noopener' rel='noreferrer'>
+						<i class="fas fa-phone"></i>
+						<span>0536 459 55 53</span>
+					</a>
+					<a href="mailto:info@contentnation.se" target="_blank" rel='noopener' rel='noreferrer'>
+						<i class="far fa-envelope"></i>
+						<span>info@contentnation.se</span>
+					</a>
+				</nav>
+							</div>
+		</section>
+		<section class="sticky-menu">
+			<section>
+				<figure class='logo'><a href='https://cntestcopy.local'><img src='https://cntestcopy.local/wp-content/uploads/2020/10/content-nation-logo.png' alt='CN_test' title='CN_test' /></a></figure>				<nav class='header-menu unselectable'><ul class='menu desktop'><li class='menu-item   menu-depth-0'><a class='link' href='https://cntestcopy.local/erbjudande/'>Erbjudande</a></li><li class='menu-item   menu-depth-0'><a class='link' href='https://cntestcopy.local/fall/'>Fall</a></li><li class='menu-item   menu-depth-0'><a class='link' href='https://cntestcopy.local/nyheter/'>Nyheter</a></li><li class='menu-item   menu-depth-0'><a class='link' href='https://cntestcopy.local/om-oss/'>Om oss</a></li><li class='menu-item   menu-depth-0'><a class='link' href='https://cntestcopy.local/kontakt/'>Kontakt</a></li></ul></nav>			</section>
+		</section>
+	</header>
+  <main id="site-main" class="page-197 desktop">
+        <section class='hero-block  block desktop background-image overlay-none has-subtitle width-max has-abstract has-bottom-link'>
+        <figure class='block-background desktop' style='background-image: url(https://cntestcopy.local/wp-content/uploads/2020/10/group.png);background-size: auto 100%;background-position: right center;'><div  ></div></figure>        <header><div class="subtitle1"><h1>En <span><b>Strategisk Contentbyrå</b></span> i Sverige</h1>
+</div><article class="abstract"><p>Content Nation vässar innehållet i den externa kommunikationen. Vi jobbar framförallt med kortare videos i sociala medier och Native Ads och vi är specialiserade på att ta fram nyhetsvärde och autenticitet i era budskap. Det skapar tyngd och trovärdighet åt det ni vill förmedla. Vi bygger på våra erfarenheter som tv-journalister, redaktörer och entreprenörer och har en effektiv process för att skapa relevant innehåll i såväl text, bild och video.</p>
+<div class="wp-block-lazyblock-standard-block lazyblock-standard-block-Z1bU9dY"></div>
+</article></header>
+        <main class='block desktop background-image overlay-none has-subtitle width-max has-abstract has-bottom-link' >
+                </main>
+        <footer class="has-content"><a class='button-style' href='https://cntestcopy.local/erbjudande/' >Så kan vi hjälpa dig -&gt;<i class='far fa-arrow-alt-circle-right'></i></a></footer>
+    </section>
+
+
+    <section class='text-block block desktop background-gradient has-title width-max color-dark has-abstract has-bottom-link'>
+        <figure class='block-background desktop' ><div  style='background-image: linear-gradient(180deg,rgba(116, 80, 150, 0.95),rgba(116, 80, 150, 0.2));'></div></figure>        <header><h2>Storytelling &amp; Storyfinding</h2><hr><article class="abstract"><p>Vägen till en bättre kommunikation med omvärlden går bland annat genom att göra ditt material mer angeläget och relevant för de du vill nå. Content Nation jobbar med en kombination av gediget journalistiskt kunnande, affärserfarenhet och processförståelse. Vi hjälper organisationer och företag att identifiera vad som ska berättas och vi utformar det på ett sätt så det attraherar läsarna.<br />
+Det kräver kunnande i Storytelling, men i minst lika hög grad Storyfinding.</p>
+</article></header>
+        <main class='block desktop background-gradient has-title width-max color-dark has-abstract has-bottom-link' >
+                </main>
+        <footer class="has-content"><a class='button-style' href='https://cntestcopy.local/om-oss/' >Det här är vi<i class='far fa-arrow-alt-circle-right'></i></a></footer>
+    </section>
+
+
+    <section class='blog-list-block block desktop background-color has-title width-max'>
+        <figure class='block-background desktop' ><div class='transparent' ></div></figure>        <header><h2>Aktuellt</h2><hr></header>
+        <main class='block desktop background-color has-title width-max' >
+        <fieldset id='blogpage1' page-url=/blogg?blogpage=1 class='listitempage'><legend>Sida 1</legend><article data-page-url='/blogg?blogpage=1' data-pagination=''><a class='listitem' href='https://cntestcopy.local/news/news-6/'><figure style='background-image: url(https://cntestcopy.local/wp-content/uploads/2020/10/group-54@2x-300x26-1-150x26.png);'></figure><h3>News 6</h3><p>sdasdasdsda</p></a><a class='listitem' href='https://cntestcopy.local/news/news-5/'><figure style='background-image: url(https://cntestcopy.local/wp-content/uploads/2020/10/collegue-150x150.png);'></figure><h3>News 5</h3><p>zxz<cxz<x</p></a><a class='listitem' href='https://cntestcopy.local/news/news-4/'><figure style='background-image: url(https://cntestcopy.local/wp-content/uploads/2020/10/homepage-pic-150x150.png);'></figure><h3>News 4</h3><p>xzcxxzxz</p></a></article></fieldset><nav id='blog-pagination'><a class='link' id='blog-first' style='display: none'>&lt;&lt;</a><span id='blog-pages'></span><a class='link' id='blog-last' style='display: none'>&gt;&gt;</a><select id='blog-category' onchange='location = this.value;''><option value='/blogg'  selected='selected'>&#8211; Alla kategorier &#8211;</option><option  value='/blogg?blogcategory=haber'>haber</option><option  value='/blogg?blogcategory=uncategorized'>Uncategorized</option></select></nav>        </main>
+        <footer></footer>
+    </section>
+
+
+
+    <section class='text-block block desktop background-none has-title width-max has-abstract has-bottom-link based_on'>
+                <header><h2>You are based on a true story</h2><hr><article class="abstract"><p>Alla företag och organisationer har ett bidrag till omvärlden.<br />
+Att ta fram och formulera det bidraget är en del av det vi gör. Det handlar om Storytelling, som på riktigt relaterar till människors och företags verkliga behov.</p>
+<p>Vi jobbar med verkliga människor, verkliga berättelser och relevanta budskap.</p>
+<p>Vårt fokus ligger på att skapa ett så intressant och spännande innehåll så att det väcker känslor och engagemang hos de ni vill nå ut till.</p>
+</article></header>
+        <main class='block desktop background-none has-title width-max has-abstract has-bottom-link based_on' >
+                </main>
+        <footer class="has-content"><a class='button-style' href='https://cntestcopy.local/kontakt/' >Säg hej!<i class='far fa-arrow-alt-circle-right'></i></a></footer>
+    </section>
+
+
+    <section class='text-list-block block desktop background-none width-max has-bottom-link det'>
+                <header></header>
+        <main class='block desktop background-none width-max has-bottom-link det' >
+        <article><div><p><img loading="lazy" src="http://cntestcopy.local/wp-content/uploads/2020/10/homepage-pic-300x172.png" alt="" width="300" height="172" class="alignnone size-medium wp-image-285" srcset="https://cntestcopy.local/wp-content/uploads/2020/10/homepage-pic-300x172.png 300w, https://cntestcopy.local/wp-content/uploads/2020/10/homepage-pic-768x440.png 768w, https://cntestcopy.local/wp-content/uploads/2020/10/homepage-pic.png 912w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<h2>Det nya normala</h2>
+<p>Människors trötthet inför reklam och budskap de inte har bett om, blir allt större. Och i takt med digitaliseringen ökar våra möjligheter att välja bort det vi inte vill ta del av. Det ställer allt högre krav på att de företag eller organisationer som vill nå fram och att de verkligen har ett innehåll som berör eller relaterar till mottagaren. Detta är Storytelling.</p>
+</div></article>        </main>
+        <footer class="has-content"><a class='button-style' href='https://cntestcopy.local/erbjudande/' >Läs mer<i class='far fa-arrow-alt-circle-right'></i></a></footer>
+    </section>
+  </main>
+<footer id="site-footer" class="desktop">
+
+	<div class="footer-content">
+	
+
+    </div>
+	<!-- HERE: header tag - php the_logo function -  header close tag -->
+	<main>
+		<h3>Kontakt</h3>
+		<section id="contact-info">
+							<a href="https://goo.gl/maps/LFcoqooJZ2FmNQzs6" target="_blank" rel='noopener' rel='noreferrer'>
+					<span><i class="fas fa-map-marker-alt"></i></span>
+					<span>Content Nation AB<br />
+<br />
+Anders Reimers Väg 18<br />
+117 50 Stockholm</span>
+				</a>
+				<a href="tel:0536 459 55 53" target="_blank" rel='noopener' rel='noreferrer'>
+					<span><i class="fas fa-phone-alt"></i></span>
+					<span>0536 459 55 53</span>
+				</a>
+				<a href="mailto:info@contentnation.se" target="_blank" rel='noopener' rel='noreferrer'>
+					<span><i class="far fa-envelope"></i></span>
+					<span>info@contentnation.se</span>
+				</a>
+					</section>
+		<section id="footer-menu">
+					</section>
+		<section id="social-media-links">
+								<a href="https://facebook.com" target="_blank" rel="noopener" rel="noreferrer" title="Facebook">
+						<i class='fab fa-facebook-f'></i>					</a>
+												<a href="https://linkedin.com" target="_blank" rel="noopener" rel="noreferrer" title="Linkedin">
+						<i class='fab fa-linkedin-in'></i>					</a>
+									</section>
+		<section id="copyright">
+			<span>All copyrights reserved</span>
+			<span>2021</span>
+		</section>
+	</main>
+	<footer>
+		<section id="credits">
+							<a href="https://naxnordic.com" target="_blank" title="Powered by NAX">
+					Powered by NAX				</a>
+					</section>
+	</footer>
+</footer>
+<script type='text/javascript' src='https://cntestcopy.local/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+</body>
+
+</html>
+
+Template page.php
